@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+ollama
+python-dotenv
+requests
+chromadb
+python-multipart
+pypdf
+streamlit
